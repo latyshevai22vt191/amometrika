@@ -1,0 +1,7 @@
+dotenv
+jwt
+requests
+datetime
+time
+logging
+justcode
